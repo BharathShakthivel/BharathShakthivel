@@ -19,9 +19,8 @@
 ![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharathShakthivel&show_icons=true&theme=radical)
 
 ## Featured Projects
-- [Customer Churn Prediction](https://github.com/yourrepo/churn-prediction)
-- [NER Annotation Tool](https://github.com/yourrepo/ner-annotation)
-- [Anomaly Detection](https://github.com/yourrepo/anomaly-detection)
+- [Customer Churn Prediction](https://github.com/BharathShakthivel/Data-Analytics/tree/main/Customer%20Churn%20Prediction)
+- [Anomaly Detection](https://github.com/BharathShakthivel/Deep-Learning/tree/main/Conformal%20LSTM%20Classifier%20for%20Anomaly%20Detection)
 
 ## Fun Fact
 I love building **data-driven apps** and exploring **AI-powered tools**!
