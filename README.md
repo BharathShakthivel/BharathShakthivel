@@ -5,7 +5,7 @@
 - 🔭 Currently working on **Data Analytics, Cloud & Full-Stack Web Dev Projects**
 - 🌱 Learning **AWS & Advanced Machine Learning**
 - 👯 Looking to collaborate on **Data Science & AI projects**
-- 💬 Ask me about **Python, Power BI, Data Engineering**
+- 💬 Ask me about **Data Analytics, Data Engineering, Web Development**
 - 📫 Reach me at: [Email](mailto:bharathshakthivel1107@gmail.com) | [LinkedIn](https://linkedin.com/in/bharath-shakthivel)
 
 ## Tech Stack
