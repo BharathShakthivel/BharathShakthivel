@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Bharath!
-🚀 Data Analyst | Cloud Enthusiast | AI Solutions Developer
+**Data Analyst | Cloud Enthusiast | AI Solutions Developer**
 
 ## About Me
 - 🔭 Currently working on **Data Analytics, Cloud & Full-Stack Web Dev Projects**
