@@ -2,7 +2,7 @@
 🚀 Data Analyst | Cloud Enthusiast | AI Solutions Developer
 
 ## About Me
-- 🔭 Currently working on **Data Analytics & Cloud Projects**
+- 🔭 Currently working on **Data Analytics, Cloud & Full-Stack Web Dev Projects**
 - 🌱 Learning **AWS & Advanced Machine Learning**
 - 👯 Looking to collaborate on **Data Science & AI projects**
 - 💬 Ask me about **Python, Power BI, Data Engineering**
