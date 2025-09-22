@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Bharath!
-**Data Analytics | Cloud Tech | Full Stack Web Development**
+**Data Analytics | Cloud | Full Stack Web Development**
 
 ## About Me
 - 🔭 Currently working on **Data Analytics, Cloud & Full-Stack Web Dev Projects**
