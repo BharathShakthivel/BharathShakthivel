@@ -26,4 +26,4 @@
 - [Anomaly Detection](https://github.com/BharathShakthivel/Deep-Learning/tree/main/Conformal%20LSTM%20Classifier%20for%20Anomaly%20Detection)
 
 ## Fun Fact
-I love building **data-driven apps** and exploring **AI-powered tools**!
+I love building **Cool Projects** and exploring **AI-powered tools**!
