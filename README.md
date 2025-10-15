@@ -22,7 +22,7 @@
 ![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=BharathShakthivel&show_icons=true&theme=radical)
 
 ## Featured Projects
-- [Customer Churn Prediction](https://github.com/BharathShakthivel/Data-Analytics/tree/main/Customer%20Churn%20Prediction)
+- [Data Warehouse with Sales Fact](https://github.com/BharathShakthivel/Data-Warehouse-Sales-Fact)
 - [Anomaly Detection](https://github.com/BharathShakthivel/Deep-Learning/tree/main/Conformal%20LSTM%20Classifier%20for%20Anomaly%20Detection)
 
 ## Fun Fact
