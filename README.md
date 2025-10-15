@@ -23,7 +23,7 @@
 
 ## Featured Projects
 - [Data Warehouse with Sales Fact](https://github.com/BharathShakthivel/Data-Warehouse-Sales-Fact)
-- [Anomaly Detection](https://github.com/BharathShakthivel/Deep-Learning/tree/main/Conformal%20LSTM%20Classifier%20for%20Anomaly%20Detection)
+- [Anomaly Detection using LSTM & Conformal Prediction](https://github.com/BharathShakthivel/Deep-Learning/tree/main/Conformal%20LSTM%20Classifier%20for%20Anomaly%20Detection)
 
 ## Fun Fact
 I love building **Cool Projects** and exploring **AI-powered tools**!
