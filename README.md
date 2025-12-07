@@ -2,7 +2,7 @@
 **Data Analytics & Engineering | Artificial Intelligence | Full Stack Web Development**
 
 ## About Me
-- 🔭 Currently working on **Data Analytics, Cloud & Full-Stack Web Dev Projects**
+- 🔭 Currently working on **Full-Stack Web App Projects**
 - 🌱 Learning **AWS & Advanced Machine Learning**
 - 👯 Looking to collaborate on **Data Science & AI projects**
 - 💬 Ask me about **Data Analytics, Data Engineering, Web Development**
