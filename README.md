@@ -1,11 +1,10 @@
 # Hi there 👋, I'm Bharath!
-**Data Analytics & Engineering | Artificial Intelligence | Full Stack Web Development**
+**Data Analytics | Artificial Intelligence | Full Stack Web Development**
 
 ## About Me
 - 🔭 Currently working on **Full-Stack Web App Projects**
 - 🌱 Learning **AWS & Advanced Machine Learning**
 - 👯 Looking to collaborate on **AI projects**
-- 💬 Ask me about **Data Analytics, Data Engineering, Web Development**
 - 📫 Reach me at: [Email](mailto:bharathshakthivel1107@gmail.com) | [LinkedIn](https://linkedin.com/in/bharath-shakthivel)
 
 ## Tech Stack
