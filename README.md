@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Bharath!
-**Data Analytics | Artificial Intelligence | Full Stack Web Development**
+**“Master’s graduate passionate about strengthening core Computer Science fundamentals and building impactful projects in Full Stack Web Development, AI, and Data Engineering.”**
 
 ## About Me
 - 🔭 Currently working on **Full-Stack Web App Projects**
