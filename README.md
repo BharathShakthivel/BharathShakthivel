@@ -55,10 +55,7 @@
 
 ### 📊 **GitHub Analytics**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BharathShakthivel&show_icons=true&theme=radical&hide_border=true&v=1" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BharathShakthivel&layout=compact&theme=radical&hide_border=true&v=1" height="180" alt="languages graph" />
-</div>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BharathShakthivel&theme=radical)
 
 ---
 
