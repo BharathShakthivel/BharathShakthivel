@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bharath!
+# Hi there 👋
 **Master’s graduate passionate about strengthening core Computer Science fundamentals and building impactful projects in Full Stack Web Development, AI, and Data Engineering.**
 
 ## About Me
