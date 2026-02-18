@@ -3,8 +3,8 @@
 
 ## About Me
 - 🔭 Currently working on **Full-Stack Web App Projects**
-- 🌱 Learning **AWS & Advanced Machine Learning**
-- 👯 Looking to collaborate on **AI projects**
+- 🌱 Learning **AI Software Engineering**
+- 👯 Looking to collaborate on **Full Stack Software & AI projects**
 - 📫 Reach me at: [Email](mailto:bharathshakthivel1107@gmail.com) | [LinkedIn](https://linkedin.com/in/bharath-shakthivel)
 
 ## Tech Stack
