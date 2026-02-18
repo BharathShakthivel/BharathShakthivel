@@ -55,8 +55,8 @@
 
 ### 📊 **GitHub Analytics**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BharathShakthivel&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=BharathShakthivel&layout=compact&theme=radical&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=bharathshakthivel&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bharathshakthivel&layout=compact&theme=radical&hide_border=true)
 
 ---
 
