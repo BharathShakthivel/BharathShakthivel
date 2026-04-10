@@ -2,7 +2,7 @@
 
   # Hi there, I'm Bharath! 👋
 
-  <h3>Master’s Graduate | Full Stack Developer | AI & Data Engineering Enthusiast</h3>
+  <h3>Master’s Graduate | Full Stack Developer | AI & Data Enthusiast</h3>
 
   <p>
     <em>Passionate about strengthening core Computer Science fundamentals and building scalable, impactful solutions.</em>
