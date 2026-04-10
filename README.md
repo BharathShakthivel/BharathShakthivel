@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Web Architectures**
 - 🌱 I’m currently learning **AI Software Engineering & MLOps**
-- 👯 I’m looking to collaborate on **Open Source AI & Data Engineering projects**
+- 👯 I’m looking to collaborate on **Open Source AI & Data projects**
 - 💬 Ask me about **Python, Cloud Computing (AWS), and Data Visualization**
 
 ---
